@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Gesture DTW</string>
+    <string name="hello">Привіт, жести!</string>
+
+    <string name="gesture_shake">Струс</string>
+    <string name="gesture_circle">Коло</string>
+    <string name="gesture_up_down">Вгору-вниз</string>
+    <string name="gesture_left_right">Вліво-вправо</string>
+    <string name="gesture_unknown">Невідомий жест</string>
+
+    <string name="recognition_result">Жест: %1$s (відстань: %2$.2f)</string>
+</resources>

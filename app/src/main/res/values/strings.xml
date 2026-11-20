@@ -1,4 +1,12 @@
 <resources>
     <string name="app_name">Gesture DTW</string>
     <string name="hello">Hello, gestures!</string>
+
+    <string name="gesture_shake">Shake</string>
+    <string name="gesture_circle">Circle</string>
+    <string name="gesture_up_down">Up and down</string>
+    <string name="gesture_left_right">Left and right</string>
+    <string name="gesture_unknown">Unknown gesture</string>
+
+    <string name="recognition_result">Gesture: %1$s (distance: %2$.2f)</string>
 </resources>
