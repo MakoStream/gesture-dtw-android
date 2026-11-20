@@ -20,4 +20,13 @@
     <string name="msg_deleted">Recordings deleted: %1$s</string>
     <string name="msg_too_short">Too short: hold the button longer</string>
     <string name="msg_sensor_unavailable">Accelerometer is not available on this device</string>
+
+    <string name="recognize_title">Recognize gesture</string>
+    <string name="recognize_hold">Hold and make the gesture</string>
+    <string name="recognize_release">Release to recognize</string>
+    <string name="recognition_templates">Recordings available: %1$d</string>
+    <string name="result_unknown">Unknown gesture (closest distance: %1$.2f)</string>
+    <string name="msg_no_templates">Record some gestures first</string>
+    <string name="open_recognition">Go to recognition</string>
+
 </resources>

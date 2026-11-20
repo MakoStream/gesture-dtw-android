@@ -18,6 +18,8 @@ import ua.makostream.gesturedtw.ui.GestureViewModel
 import ua.makostream.gesturedtw.ui.GestureViewModelFactory
 import ua.makostream.gesturedtw.ui.UiMessage
 
+import android.content.Intent
+
 class MainActivity : AppCompatActivity() {
 
     private val viewModel: GestureViewModel by viewModels {
@@ -65,6 +67,10 @@ class MainActivity : AppCompatActivity() {
         }
         deleteButton.setOnClickListener { viewModel.deleteGesture(selectedGestureId()) }
 
+        findViewById<Button>(R.id.openRecognitionButton).setOnClickListener {
+            startActivity(Intent(this, RecognitionActivity::class.java))
+        }
+        
         viewModel.state.observe(this) { render(it) }
         Timber.d("MainActivity created")
     }

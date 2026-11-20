@@ -20,4 +20,12 @@
     <string name="msg_deleted">Записи видалено: %1$s</string>
     <string name="msg_too_short">Занадто коротко: утримуйте кнопку довше</string>
     <string name="msg_sensor_unavailable">Акселерометр недоступний на цьому пристрої</string>
+
+    <string name="recognize_title">Розпізнавання жесту</string>
+    <string name="recognize_hold">Утримуйте та виконайте жест</string>
+    <string name="recognize_release">Відпустіть, щоб розпізнати</string>
+    <string name="recognition_templates">Доступно записів: %1$d</string>
+    <string name="result_unknown">Невідомий жест (найближча відстань: %1$.2f)</string>
+    <string name="msg_no_templates">Спочатку запишіть кілька жестів</string>
+    <string name="open_recognition">Перейти до розпізнавання</string>
 </resources>
