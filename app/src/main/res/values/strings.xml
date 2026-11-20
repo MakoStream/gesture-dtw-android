@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Gesture DTW</string>
+    <string name="hello">Hello, gestures!</string>
+</resources>
