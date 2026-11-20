@@ -9,4 +9,15 @@
     <string name="gesture_unknown">Невідомий жест</string>
 
     <string name="recognition_result">Жест: %1$s (відстань: %2$.2f)</string>
+    
+    <string name="screen_title">Запис жестів</string>
+    <string name="record_hold">Утримуйте та рухайте телефон</string>
+    <string name="record_release">Відпустіть, щоб зберегти</string>
+    <string name="status_recording">Запис…</string>
+    <string name="recordings_count">Записів цього жесту: %1$d</string>
+    <string name="delete_recordings">Видалити записи</string>
+    <string name="msg_saved">Збережено: %1$s (відліків: %2$d)</string>
+    <string name="msg_deleted">Записи видалено: %1$s</string>
+    <string name="msg_too_short">Занадто коротко: утримуйте кнопку довше</string>
+    <string name="msg_sensor_unavailable">Акселерометр недоступний на цьому пристрої</string>
 </resources>

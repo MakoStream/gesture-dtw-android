@@ -9,4 +9,15 @@
     <string name="gesture_unknown">Unknown gesture</string>
 
     <string name="recognition_result">Gesture: %1$s (distance: %2$.2f)</string>
+
+    <string name="screen_title">Record gestures</string>
+    <string name="record_hold">Hold and move the phone</string>
+    <string name="record_release">Release to save</string>
+    <string name="status_recording">Recording…</string>
+    <string name="recordings_count">Recordings of this gesture: %1$d</string>
+    <string name="delete_recordings">Delete recordings</string>
+    <string name="msg_saved">Saved: %1$s (%2$d samples)</string>
+    <string name="msg_deleted">Recordings deleted: %1$s</string>
+    <string name="msg_too_short">Too short: hold the button longer</string>
+    <string name="msg_sensor_unavailable">Accelerometer is not available on this device</string>
 </resources>
